@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Venkata Sai Pramod Kumar Kasturi
 - 👀 I’m interested in solving real world problems using ML and deep learing techniques
-- 🌱 I’m currently learning data structures and algorithems, advanced control systems
+- 🌱 I’m currently learning Causal Inference Reinforcement Learning
 - 💞️ I’m looking to collaborate on Mechanical engineering with ML applications
 - 📫 How to reach me pramodkumarkasturi@gmail.com | vkasturi@asu.edu
 
